@@ -7,7 +7,7 @@
 }
 
 /* 640px以下 */
-@media screen and(max-width:640px){
+@media screen and (max-width:640px){
   body{
     background-color: red;
   }
@@ -21,7 +21,7 @@
 }
 
 /* 981px以下 */
-@media screen and(min-width:981px){
+@media screen and (min-width:981px){
   body{
     background-color: blue;
   }
